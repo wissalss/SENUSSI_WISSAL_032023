@@ -1,0 +1,35 @@
+
+.rdt_TableCol{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    color: white;
+    font-size: 18px;
+    background-color: #93AD18;
+}
+
+.rdt_TableCell{
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+}
+
+.gKbhqU.rdt_Pagination{
+    padding-right: 40%;
+    color: black;
+    font-size: 15px;
+}
+
+.kDEcCH button, input{
+    font-size: 20px;
+    border: #93AD18 solid;
+    
+}
+.kDEcCH button{
+    width: 50px;
+    margin-right: 4px;
+}
+.kDEcCH input, placeholder{
+    width: 300px;
+    text-align: center;
+}
